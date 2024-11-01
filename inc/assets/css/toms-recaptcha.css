@@ -1,0 +1,132 @@
+.toms-recaptcha-icon{
+    display: inline-block;
+    vertical-align: middle;
+}
+.toms-heading-text{
+    font-weight: 600;
+}
+
+.toms-recaptcha-form .toms-recaptcha-clear-data,
+.toms-recaptcha-form .toms-recaptcha-type,
+.toms-recaptcha-form .toms-recaptcha-options,
+.toms-recaptcha-form .toms-recaptcha-support-forms,
+.toms-recaptcha-form .toms-recaptcha-keys{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 2px dashed #dcdcde;
+    margin:20px 0; 
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-title,
+.toms-recaptcha-form .toms-recaptcha-support-forms .toms-recaptcha-support-forms-title,
+.toms-recaptcha-form .toms-recaptcha-type .toms-recaptcha-type-title,
+.toms-recaptcha-form .toms-recaptcha-keys .toms-recaptcha-keys-title{
+    font-weight: 500;
+    font-size: 18px;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+.toms-recaptcha-form .toms-recaptcha-keys .description{
+    padding: 0 0 20px 0;
+}
+.toms-recaptcha-form .toms-recaptcha-keys input[type=text],
+.toms-recaptcha-form .toms-recaptcha-keys input[type=password]{
+    margin: 5px 0 20px 0;
+    max-width: 400px;
+}
+.toms-recaptcha-form .toms-recaptcha-type .toms-recaptcha-type-items{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px 20px 20px 20px;
+}
+.toms-recaptcha-form .toms-recaptcha-type .toms-label{
+    padding: 10px 0;
+    margin: 5px 8px;
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-languages,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-area,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-color .toms-label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-badge .toms-badge-title,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-button-style .toms-button-style-text,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-custom-api-url .toms-label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-verify-api .toms-verify-api-text,
+.toms-recaptcha-form .toms-recaptcha-support-forms .toms-recaptcha-wordpress-default-forms{
+    font-size: 14px;
+    font-weight: 500;
+}
+.toms-recaptcha-form .toms-recaptcha-support-forms .toms-recaptcha-form-list .toms-recaptcha-forms-contents{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300PX, 1FR));
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+    margin: 10px 20px 20px 20px;
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-badge .toms-badge-label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-button-style .toms-button-style-label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-verify-api .toms-label{
+    padding: 10px 0;
+    margin: 5px 0 20px 10px;
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-badge .toms-badge-label label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-button-style .toms-button-style-label label,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-verify-api .toms-label label{
+    padding: 10px;
+    margin: 5px;
+}
+.toms-recaptcha-form .toms-recaptcha-support-forms .toms-recaptcha-form-list .toms-recaptcha-forms-contents .toms-label{
+    padding: 10px 0;
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-color,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-custom-api-url {
+    display: grid;
+    grid-column-gap: 10px;
+    max-width: 400px;
+    grid-row-gap: 10px;
+    margin-bottom: 20px;
+}
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-color .toms-label .toms-color-span{
+    font-size: 13px;
+    font-weight: 400;
+}
+.toms-languages,
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-area{
+    margin: 20px 0;
+}
+.toms-recaptcha-form .toms-recaptcha-clear-data .toms-label{
+    padding: 10px;
+}
+.toms-recaptcha-form .toms-recaptcha-clear-data .delete-text{
+    opacity: 0.7;
+}
+.toms-recaptcha-form .toms-recaptcha-clear-data .delete-warning-text{
+    opacity: 0.5;
+    padding-top: 10px;
+}
+.toms-recaptcha-form .toms-recaptcha-clear-data .delete-warning-title{
+    color: #ff0f6b;
+}
+.toms-recaptcha-form .toms-button-style-label input[type=radio],
+.toms-recaptcha-form .toms-recaptcha-type input[type=radio]{
+    margin-left: 2px;
+}
+.toms-recaptcha-form .toms-recaptcha-type-img{
+    padding: 10px 0 0 0;
+}
+
+.toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-button-style .toms-button-style-label{
+    display: flex;
+}
+@media screen and (max-width: 782px){
+    .toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-button-style .toms-button-style-label,
+    .toms-recaptcha-form .toms-recaptcha-type .toms-recaptcha-type-items{
+        flex-direction: column;
+    }
+}
+@media screen and (max-width: 350px){
+    .toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-badge .toms-badge-label label,
+    .toms-recaptcha-form .toms-recaptcha-options .toms-recaptcha-options-items .toms-verify-api .toms-label label {
+        padding: 10px 5px 10px 5px;
+        margin: 5px;
+    }
+}

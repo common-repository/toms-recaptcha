@@ -1,0 +1,97 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Social Login\n"
+"POT-Creation-Date: 2022-10-27 16:06+0800\n"
+"PO-Revision-Date: 2022-10-27 14:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-caprice.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: toms-caprice.php:33
+msgid "TomS Plugins For Wordpress"
+msgstr ""
+
+#: toms-caprice.php:34
+msgid "TomS WP"
+msgstr ""
+
+#: toms-caprice.php:43 toms-caprice.php:44
+msgid "Dashboard"
+msgstr ""
+
+#: toms-caprice.php:99
+#, php-format
+msgid "<i>Thank you for using <a href=\"%s\" target=\"_blank\"><strong>TomS WordPress Plugin</strong></a></i>"
+msgstr ""
+
+#: toms-caprice.php:124
+msgid "TomS DashBoard"
+msgstr ""
+
+#: toms-caprice.php:128
+msgid "Welcome to TomS Caprice !"
+msgstr ""
+
+#: toms-caprice.php:129
+msgid "Thank you for choosing TomS Caprice plugins. We provide easy, useful and secure plugins for you."
+msgstr ""
+
+#: toms-caprice.php:135
+msgid "Current Installed"
+msgstr ""
+
+#: toms-caprice.php:180 toms-caprice.php:252
+msgid "Version:"
+msgstr ""
+
+#: toms-caprice.php:186
+msgid "Settings"
+msgstr ""
+
+#: toms-caprice.php:189 toms-caprice.php:194 toms-caprice.php:203
+#: toms-caprice.php:271 toms-caprice.php:279
+msgid "View Details"
+msgstr ""
+
+#: toms-caprice.php:200
+msgid "Activate"
+msgstr ""
+
+#: toms-caprice.php:215
+msgid "Our Popular Plugins"
+msgstr ""
+
+#: toms-caprice.php:255 toms-caprice.php:259 toms-caprice.php:263
+msgid "Installed"
+msgstr ""
+
+#: toms-caprice.php:267
+msgid "Status:"
+msgstr ""
+
+#: toms-caprice.php:267
+msgid "Not install"
+msgstr ""
+
+#: toms-caprice.php:275
+msgid "Comming Soon"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://TomS-Caprice.org"
+msgstr ""

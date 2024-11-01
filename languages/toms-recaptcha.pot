@@ -1,0 +1,315 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS reCAPTCHA\n"
+"POT-Creation-Date: 2022-11-01 14:01+0800\n"
+"PO-Revision-Date: 2022-11-01 14:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-recaptcha.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/toms-recaptcha-ultimate-member.php:70
+msgid "Ultimate Member"
+msgstr ""
+
+#: inc/toms-recaptcha-ultimate-member.php:75
+#: inc/toms-recaptcha-woocommerce.php:80 toms-recaptcha.php:216
+msgid "Login Form"
+msgstr ""
+
+#: inc/toms-recaptcha-ultimate-member.php:79
+#: inc/toms-recaptcha-woocommerce.php:84 toms-recaptcha.php:220
+msgid "Register Form"
+msgstr ""
+
+#: inc/toms-recaptcha-ultimate-member.php:83
+#: inc/toms-recaptcha-woocommerce.php:88 toms-recaptcha.php:224
+msgid "Lost Password Form"
+msgstr ""
+
+#: inc/toms-recaptcha-ultimate-member.php:180
+#: inc/toms-recaptcha-ultimate-member.php:200
+#: inc/toms-recaptcha-ultimate-member.php:221
+#: inc/toms-recaptcha-ultimate-member.php:305
+#: inc/toms-recaptcha-ultimate-member.php:325
+#: inc/toms-recaptcha-ultimate-member.php:346
+#: inc/toms-recaptcha-ultimate-member.php:436
+#: inc/toms-recaptcha-ultimate-member.php:456
+#: inc/toms-recaptcha-ultimate-member.php:476
+#, php-format
+msgid ""
+"ERROR:  Captcha verification failed, please try again!!! Error Codes: %s "
+msgstr ""
+
+#: inc/toms-recaptcha-woo-register.php:68
+#: inc/toms-recaptcha-woo-register.php:105
+msgid "Register"
+msgstr ""
+
+#: inc/toms-recaptcha-woo-register.php:77
+msgid "Username"
+msgstr ""
+
+#: inc/toms-recaptcha-woo-register.php:84
+msgid "Email address"
+msgstr ""
+
+#: inc/toms-recaptcha-woo-register.php:91
+msgid "Password"
+msgstr ""
+
+#: inc/toms-recaptcha-woo-register.php:97
+msgid "A link to set a new password will be sent to your email address."
+msgstr ""
+
+#: inc/toms-recaptcha-woocommerce.php:75
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/toms-recaptcha-woocommerce.php:92
+msgid "Checkout Billing Form"
+msgstr ""
+
+#: inc/toms-recaptcha-woocommerce.php:228
+#: inc/toms-recaptcha-woocommerce.php:247
+#: inc/toms-recaptcha-woocommerce.php:275
+#: inc/toms-recaptcha-woocommerce.php:408
+#: inc/toms-recaptcha-woocommerce.php:427
+#: inc/toms-recaptcha-woocommerce.php:453
+#: inc/toms-recaptcha-woocommerce.php:584
+#: inc/toms-recaptcha-woocommerce.php:603
+#: inc/toms-recaptcha-woocommerce.php:629
+#: inc/toms-recaptcha-woocommerce.php:792
+#: inc/toms-recaptcha-woocommerce.php:811
+#: inc/toms-recaptcha-woocommerce.php:838 toms-recaptcha.php:480
+#: toms-recaptcha.php:499 toms-recaptcha.php:519 toms-recaptcha.php:596
+#: toms-recaptcha.php:615 toms-recaptcha.php:635 toms-recaptcha.php:709
+#: toms-recaptcha.php:728 toms-recaptcha.php:748
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Captcha verification failed, please try again!!! "
+"<br>Error Codes: %s "
+msgstr ""
+
+#: toms-recaptcha.php:73
+msgid "TomS reCAPTCHA Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: toms-recaptcha.php:73 toms-recaptcha.php:145
+msgid "TomS reCAPTCHA"
+msgstr ""
+
+#: toms-recaptcha.php:127
+msgid "Settings saved."
+msgstr ""
+
+#: toms-recaptcha.php:131
+msgid "ERROR : Settings save failed."
+msgstr ""
+
+#: toms-recaptcha.php:132
+msgid "Sorry, you don't have permission to perform this action."
+msgstr ""
+
+#: toms-recaptcha.php:149
+msgid "Google reCAPTCHA"
+msgstr ""
+
+#: toms-recaptcha.php:149
+msgid ""
+" uses an advanced risk analysis engine and adaptive challenges to keep "
+"malicious software from engaging in abusive activities on your website. "
+"Meanwhile, legitimate users will be able to login, make purchases, view "
+"pages, or create accounts and fake users will be blocked."
+msgstr ""
+
+#: toms-recaptcha.php:159
+msgid "Google reCAPTCHA keys"
+msgstr ""
+
+#: toms-recaptcha.php:160
+msgid ""
+"To get the reCAPTCHA <strong>Site KEY</strong> and <strong>Secret KEY</"
+"strong>, click "
+msgstr ""
+
+#: toms-recaptcha.php:160
+msgid "here"
+msgstr ""
+
+#: toms-recaptcha.php:163 toms-recaptcha.php:166 toms-recaptcha.php:170
+#: toms-recaptcha.php:173 toms-recaptcha.php:177 toms-recaptcha.php:180
+msgid "reCAPTCHA"
+msgstr ""
+
+#: toms-recaptcha.php:163
+msgid "Site KEY "
+msgstr ""
+
+#: toms-recaptcha.php:166
+msgid "Secret KEY "
+msgstr ""
+
+#: toms-recaptcha.php:170 toms-recaptcha.php:177
+msgid "Site KEY"
+msgstr ""
+
+#: toms-recaptcha.php:170 toms-recaptcha.php:173
+msgid "Checkbox"
+msgstr ""
+
+#: toms-recaptcha.php:173 toms-recaptcha.php:180
+msgid "Secret KEY"
+msgstr ""
+
+#: toms-recaptcha.php:177 toms-recaptcha.php:180
+msgid "Invisible"
+msgstr ""
+
+#: toms-recaptcha.php:186
+msgid "reCAPTCHA Type"
+msgstr ""
+
+#: toms-recaptcha.php:191
+msgid "reCAPTCHA v3"
+msgstr ""
+
+#: toms-recaptcha.php:196
+msgid "reCAPTCHA v2 (Checkbox)"
+msgstr ""
+
+#: toms-recaptcha.php:201
+msgid "reCAPTCHA v2 (Invisible)"
+msgstr ""
+
+#: toms-recaptcha.php:209
+msgid "Support Forms"
+msgstr ""
+
+#: toms-recaptcha.php:211
+msgid "WordPress Default"
+msgstr ""
+
+#: toms-recaptcha.php:228
+msgid "Comment Form"
+msgstr ""
+
+#: toms-recaptcha.php:240
+msgid "Option Settings"
+msgstr ""
+
+#: toms-recaptcha.php:243
+msgid "Verify API"
+msgstr ""
+
+#: toms-recaptcha.php:248
+msgid "Google.com"
+msgstr ""
+
+#: toms-recaptcha.php:252
+msgid "Recaptcha.net"
+msgstr ""
+
+#: toms-recaptcha.php:258
+msgid "Theme"
+msgstr ""
+
+#: toms-recaptcha.php:258
+msgid "reCAPTCHA v2 Checkbox"
+msgstr ""
+
+#: toms-recaptcha.php:263
+msgid "Light"
+msgstr ""
+
+#: toms-recaptcha.php:268
+msgid "Dark"
+msgstr ""
+
+#: toms-recaptcha.php:275
+msgid "Badge"
+msgstr ""
+
+#: toms-recaptcha.php:275
+msgid "reCAPTCHA v2 Invisible"
+msgstr ""
+
+#: toms-recaptcha.php:280
+msgid "Bottom Right"
+msgstr ""
+
+#: toms-recaptcha.php:284
+msgid "Bottom Left"
+msgstr ""
+
+#: toms-recaptcha.php:295
+msgid "Language"
+msgstr ""
+
+#: toms-recaptcha.php:310
+msgid "Delete all the configuration Data!"
+msgstr ""
+
+#: toms-recaptcha.php:311
+msgid "Warning: "
+msgstr ""
+
+#: toms-recaptcha.php:311
+msgid ""
+"Please check this option carefully, it will delete all data saved on this "
+"page when the plugin is deleted ."
+msgstr ""
+
+#: toms-recaptcha.php:317
+msgid "Save Changes"
+msgstr ""
+
+#: toms-recaptcha.php:848 toms-recaptcha.php:867 toms-recaptcha.php:887
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Challenge failed!!! Bots are not allowed to submit "
+"comments, Please try again!!! <br>Error Codes: %s "
+msgstr ""
+
+#: toms-recaptcha.php:848 toms-recaptcha.php:867 toms-recaptcha.php:887
+msgid "Back"
+msgstr ""
+
+#: toms-recaptcha.php:998
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/toms-recaptcha"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Integrated Google ReCaptcha for WordPress.Protect the login, register, "
+"lostpassword and comment forms. Support Woocommerce, Ultimate Member and "
+"more popular forms."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://toms-caprice.org"
+msgstr ""

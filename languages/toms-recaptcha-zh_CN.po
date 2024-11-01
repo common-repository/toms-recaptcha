@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS reCAPTCHA\n"
+"POT-Creation-Date: 2022-11-01 14:01+0800\n"
+"PO-Revision-Date: 2022-11-01 14:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: toms-recaptcha.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/toms-recaptcha-ultimate-member.php:70
+msgid "Ultimate Member"
+msgstr "Ultimate Member"
+
+#: inc/toms-recaptcha-ultimate-member.php:75
+#: inc/toms-recaptcha-woocommerce.php:80 toms-recaptcha.php:216
+msgid "Login Form"
+msgstr "登录表单"
+
+#: inc/toms-recaptcha-ultimate-member.php:79
+#: inc/toms-recaptcha-woocommerce.php:84 toms-recaptcha.php:220
+msgid "Register Form"
+msgstr "注册表单"
+
+#: inc/toms-recaptcha-ultimate-member.php:83
+#: inc/toms-recaptcha-woocommerce.php:88 toms-recaptcha.php:224
+msgid "Lost Password Form"
+msgstr "丢失密码表单"
+
+#: inc/toms-recaptcha-ultimate-member.php:180
+#: inc/toms-recaptcha-ultimate-member.php:200
+#: inc/toms-recaptcha-ultimate-member.php:221
+#: inc/toms-recaptcha-ultimate-member.php:305
+#: inc/toms-recaptcha-ultimate-member.php:325
+#: inc/toms-recaptcha-ultimate-member.php:346
+#: inc/toms-recaptcha-ultimate-member.php:436
+#: inc/toms-recaptcha-ultimate-member.php:456
+#: inc/toms-recaptcha-ultimate-member.php:476
+#, php-format
+msgid ""
+"ERROR:  Captcha verification failed, please try again!!! Error Codes: %s "
+msgstr "错误：验证码验证失败，请重试!!!错误代码：%s "
+
+#: inc/toms-recaptcha-woo-register.php:68
+#: inc/toms-recaptcha-woo-register.php:105
+msgid "Register"
+msgstr "注册"
+
+#: inc/toms-recaptcha-woo-register.php:77
+msgid "Username"
+msgstr "用户名"
+
+#: inc/toms-recaptcha-woo-register.php:84
+msgid "Email address"
+msgstr "邮箱地址"
+
+#: inc/toms-recaptcha-woo-register.php:91
+msgid "Password"
+msgstr "密码"
+
+#: inc/toms-recaptcha-woo-register.php:97
+msgid "A link to set a new password will be sent to your email address."
+msgstr "设置新密码的链接将被发送到你的电子邮件地址。"
+
+#: inc/toms-recaptcha-woocommerce.php:75
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/toms-recaptcha-woocommerce.php:92
+msgid "Checkout Billing Form"
+msgstr "结帐表单"
+
+#: inc/toms-recaptcha-woocommerce.php:228
+#: inc/toms-recaptcha-woocommerce.php:247
+#: inc/toms-recaptcha-woocommerce.php:275
+#: inc/toms-recaptcha-woocommerce.php:408
+#: inc/toms-recaptcha-woocommerce.php:427
+#: inc/toms-recaptcha-woocommerce.php:453
+#: inc/toms-recaptcha-woocommerce.php:584
+#: inc/toms-recaptcha-woocommerce.php:603
+#: inc/toms-recaptcha-woocommerce.php:629
+#: inc/toms-recaptcha-woocommerce.php:792
+#: inc/toms-recaptcha-woocommerce.php:811
+#: inc/toms-recaptcha-woocommerce.php:838 toms-recaptcha.php:480
+#: toms-recaptcha.php:499 toms-recaptcha.php:519 toms-recaptcha.php:596
+#: toms-recaptcha.php:615 toms-recaptcha.php:635 toms-recaptcha.php:709
+#: toms-recaptcha.php:728 toms-recaptcha.php:748
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Captcha verification failed, please try again!!! "
+"<br>Error Codes: %s "
+msgstr "<strong>错误</strong>: 验证失败, 请重试!!! <br>Error Codes: %s "
+
+#: toms-recaptcha.php:73
+msgid "TomS reCAPTCHA Settings"
+msgstr "TomS reCAPTCHA 设置"
+
+#. Plugin Name of the plugin/theme
+#: toms-recaptcha.php:73 toms-recaptcha.php:145
+msgid "TomS reCAPTCHA"
+msgstr "TomS reCAPTCHA"
+
+#: toms-recaptcha.php:127
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: toms-recaptcha.php:131
+msgid "ERROR : Settings save failed."
+msgstr "错误：设置失败。"
+
+#: toms-recaptcha.php:132
+msgid "Sorry, you don't have permission to perform this action."
+msgstr "对不起，您无权执行该操作。"
+
+#: toms-recaptcha.php:149
+msgid "Google reCAPTCHA"
+msgstr "Google reCAPTCHA"
+
+#: toms-recaptcha.php:149
+msgid ""
+" uses an advanced risk analysis engine and adaptive challenges to keep "
+"malicious software from engaging in abusive activities on your website. "
+"Meanwhile, legitimate users will be able to login, make purchases, view "
+"pages, or create accounts and fake users will be blocked."
+msgstr ""
+" 使用先进的风险分析引擎和自适应挑战来防止恶意软件在您的网站上进行滥用活"
+"动。 同时，合法用户将能够登录、购买、查看页面或创建帐户，而机器人将被阻止。"
+
+#: toms-recaptcha.php:159
+msgid "Google reCAPTCHA keys"
+msgstr "Google reCAPTCHA keys"
+
+#: toms-recaptcha.php:160
+msgid ""
+"To get the reCAPTCHA <strong>Site KEY</strong> and <strong>Secret KEY</"
+"strong>, click "
+msgstr ""
+"获取 reCAPTCHA <strong>Site KEY</strong> 和 <strong>Secret KEY</strong>, 点"
+"击 "
+
+#: toms-recaptcha.php:160
+msgid "here"
+msgstr "这里"
+
+#: toms-recaptcha.php:163 toms-recaptcha.php:166 toms-recaptcha.php:170
+#: toms-recaptcha.php:173 toms-recaptcha.php:177 toms-recaptcha.php:180
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: toms-recaptcha.php:163
+msgid "Site KEY "
+msgstr "Site KEY "
+
+#: toms-recaptcha.php:166
+msgid "Secret KEY "
+msgstr "Secret KEY "
+
+#: toms-recaptcha.php:170 toms-recaptcha.php:177
+msgid "Site KEY"
+msgstr "Site KEY"
+
+#: toms-recaptcha.php:170 toms-recaptcha.php:173
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: toms-recaptcha.php:173 toms-recaptcha.php:180
+msgid "Secret KEY"
+msgstr "Secret KEY"
+
+#: toms-recaptcha.php:177 toms-recaptcha.php:180
+msgid "Invisible"
+msgstr "隐藏式"
+
+#: toms-recaptcha.php:186
+msgid "reCAPTCHA Type"
+msgstr "reCAPTCHA 类型"
+
+#: toms-recaptcha.php:191
+msgid "reCAPTCHA v3"
+msgstr "reCAPTCHA v3"
+
+#: toms-recaptcha.php:196
+msgid "reCAPTCHA v2 (Checkbox)"
+msgstr "reCAPTCHA v2 (Checkbox)"
+
+#: toms-recaptcha.php:201
+msgid "reCAPTCHA v2 (Invisible)"
+msgstr "reCAPTCHA v2 (Invisible)"
+
+#: toms-recaptcha.php:209
+msgid "Support Forms"
+msgstr "支持的表单"
+
+#: toms-recaptcha.php:211
+msgid "WordPress Default"
+msgstr "WordPress 默认"
+
+#: toms-recaptcha.php:228
+msgid "Comment Form"
+msgstr "评论表单"
+
+#: toms-recaptcha.php:240
+msgid "Option Settings"
+msgstr "选项设置"
+
+#: toms-recaptcha.php:243
+msgid "Verify API"
+msgstr "验证 API"
+
+#: toms-recaptcha.php:248
+msgid "Google.com"
+msgstr "Google.com"
+
+#: toms-recaptcha.php:252
+msgid "Recaptcha.net"
+msgstr "Recaptcha.net"
+
+#: toms-recaptcha.php:258
+msgid "Theme"
+msgstr "主题"
+
+#: toms-recaptcha.php:258
+msgid "reCAPTCHA v2 Checkbox"
+msgstr "reCAPTCHA v2 Checkbox"
+
+#: toms-recaptcha.php:263
+msgid "Light"
+msgstr "浅色"
+
+#: toms-recaptcha.php:268
+msgid "Dark"
+msgstr "深色"
+
+#: toms-recaptcha.php:275
+msgid "Badge"
+msgstr "图标位置"
+
+#: toms-recaptcha.php:275
+msgid "reCAPTCHA v2 Invisible"
+msgstr "reCAPTCHA v2 Invisible"
+
+#: toms-recaptcha.php:280
+msgid "Bottom Right"
+msgstr "右下角"
+
+#: toms-recaptcha.php:284
+msgid "Bottom Left"
+msgstr "左下角"
+
+#: toms-recaptcha.php:295
+msgid "Language"
+msgstr "语言"
+
+#: toms-recaptcha.php:310
+msgid "Delete all the configuration Data!"
+msgstr "删除所有配置信息!"
+
+#: toms-recaptcha.php:311
+msgid "Warning: "
+msgstr "警告： "
+
+#: toms-recaptcha.php:311
+msgid ""
+"Please check this option carefully, it will delete all data saved on this "
+"page when the plugin is deleted ."
+msgstr "勾选后，当插件被删除时，它将删除此页面上保存的所有数据。"
+
+#: toms-recaptcha.php:317
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: toms-recaptcha.php:848 toms-recaptcha.php:867 toms-recaptcha.php:887
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Challenge failed!!! Bots are not allowed to submit "
+"comments, Please try again!!! <br>Error Codes: %s "
+msgstr ""
+"<strong>错误</strong>: 挑战失败!!! 机器人不能发表评论, 请重试!!! <br>Error "
+"Codes: %s "
+
+#: toms-recaptcha.php:848 toms-recaptcha.php:867 toms-recaptcha.php:887
+msgid "Back"
+msgstr "返回"
+
+#: toms-recaptcha.php:998
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr "<a href=\"%s\">设置</a>"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/toms-recaptcha"
+msgstr "https://wordpress.org/plugins/toms-recaptcha"
+
+#. Description of the plugin/theme
+msgid ""
+"Integrated Google ReCaptcha for WordPress.Protect the login, register, "
+"lostpassword and comment forms. Support Woocommerce, Ultimate Member and "
+"more popular forms."
+msgstr ""
+"集成Google ReCaptcha for WordPress.保护登录，注册，丢失密码和评论表单。支持"
+"Woocommerce，Ultimate Member等流行插件。"
+
+#. Author of the plugin/theme
+msgid "Tom Sneddon"
+msgstr "汤小贤"
+
+#. Author URI of the plugin/theme
+msgid "https://toms-caprice.org"
+msgstr "https://toms-caprice.org"

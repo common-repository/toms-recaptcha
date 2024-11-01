@@ -1,0 +1,79 @@
+{
+    "toms-video-player" : {
+        "Name" : "TomS Video Player",
+        "Slug" : "toms-video-player",
+        "Logo" : "toms-video-player.png",
+        "Type" : "block",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Simply protect your videos from being downloaded 'Directly'.",
+        "Version" : "2.1.8",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-video-player"
+    },
+    "toms-image-slider" : {
+        "Name" : "TomS Image Slider",
+        "Slug" : "toms-image-slider",
+        "Logo" : "toms-image-slider.png",
+        "Type" : "block",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Simply Slider block, easy to use, using image url to show the images directly.",
+        "Version" : "1.1.4",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-image-slider"
+    },
+    "toms-social-login" : {
+        "Name" : "TomS Social Login",
+        "Slug" : "toms-social-login",
+        "Logo" : "toms-social-login.png",
+        "Type" : "common",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Support Facebook,Google,Paypal,Github,Wechat,QQ,Weibo,Dingtalk accounts to login your wordpress site.",
+        "Version" : "1.0.0",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-social-login"
+    },
+    "toms-recaptcha" : {
+        "Name" : "TomS reCAPTCHA",
+        "Slug" : "toms-recaptcha",
+        "Logo" : "toms-recaptcha.png",
+        "Type" : "common",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Integrated Google reCAPTCHA verification system.",
+        "Version" : "1.1.3",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-recaptcha"
+    },
+    "toms-vaptcha" : {
+        "Name" : "TomS Vaptcha",
+        "Slug" : "toms-vaptcha",
+        "Logo" : "toms-vaptcha.png",
+        "Type" : "common",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Gesture captcha —— Easy for human, hard for robots. Protect the login, register, lostpassword and comment forms, support woocommerce, ultimate member, user registration and more popular forms.",
+        "Version" : "1.1.2",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-vaptcha"
+    },
+    "toms-pretty-list" : {
+        "Name" : "TomS Pretty List",
+        "Slug" : "toms-pretty-list",
+        "Logo" : "toms-pretty-list.png",
+        "Type" : "block",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "Simple and beautiful list block. Support all font icon library and SVG icon.",
+        "Version" : "1.0.1",
+        "Status" : "published",
+        "Url" : "https://toms-caprice.org/toms-pretty-list"
+    },
+    "toms-extra-source" : {
+        "Name" : "TomS Extra Source",
+        "Slug" : "toms-extra-source",
+        "Logo" : "toms-extra-source.png",
+        "Type" : "add-on",
+        "AuthorName" : "Tom Sneddon",
+        "Description" : "An add-on for Toms Video Player.",
+        "Version" : "1.0.0",
+        "Status" : "extented",
+        "Url" : "https://toms-caprice.org/toms-extra-source"
+    }
+}
